@@ -1,0 +1,5 @@
+class Radio
+{
+    SLOT(setFrequency(float frequency))
+    SLOT(setFrequencyOffset(float frequencyOffset))
+};
